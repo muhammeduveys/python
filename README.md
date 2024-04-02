@@ -1,0 +1,2 @@
+# python
+asal sayı bulma
